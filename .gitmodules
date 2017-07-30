@@ -1,0 +1,3 @@
+[submodule "nstbot"]
+	path = nstbot
+	url = git@github.com:stes/nstbot.git
